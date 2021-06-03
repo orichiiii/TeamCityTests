@@ -15,5 +15,3 @@ Scenario Outline: It is possible to signup in NewBookModels with valid data
 Examples:
 	| password   | name  | last_name | phone_number |
 	| Aa12345^   | Lilit | Bool      | 1234567890   |
-	#| Aa!@#456   | Mary  | Mary      | 1000000000   |
-	#| QWEqwe123$ | Liza  | Liza      | 0987654321   |
